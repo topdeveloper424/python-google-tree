@@ -4,8 +4,6 @@
 
 
 
-[![asciicast](https://asciinema.org/a/4wrOzHnxQVcTImuofzdMxB35L.svg)](https://asciinema.org/a/4wrOzHnxQVcTImuofzdMxB35L)
-
 ## ⚠ Disclaimer
 > This software is not authorized by Google and doesn't follow Google's
 > robots.txt. Scraping without Google explicit written permission is a violation of thei
